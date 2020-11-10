@@ -39,9 +39,9 @@ export default function login() {
                   />{" "}
                 </div>
                 
-                <div class="row mb-3 px-3">
+                <div class="row mb-3 px-3 justify-content-center">
                   {" "}
-                  <button type="submit" class="btn btn-primary text-center">
+                  <button type="submit" class="btn btn-primary">
                     Login
                   </button>{" "}
                 </div>
