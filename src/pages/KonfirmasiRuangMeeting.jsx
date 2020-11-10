@@ -1,5 +1,5 @@
 import "../component/meet.css";
-//import Meeting from "../component/meeting.svg";
+import { Link } from "react-router-dom";
 
 export default function KonfirmasiRuangMeeting() {
   return (
@@ -20,7 +20,9 @@ export default function KonfirmasiRuangMeeting() {
         <div className="d-flex pt-5 justify-content-center">
           <div className="column">
           <p className="text-center">Harga: RP.267.000,-</p>
+          <Link to="/Pembayaran">
           <button className="btn btn-primary">Konfirmasi</button>
+          </Link>
           </div>
         </div>
       </div>

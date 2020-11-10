@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useState } from "react";
 import DatePicker from "react-datepicker";
 
@@ -32,9 +33,11 @@ export default function CariRuangMeeting() {
             selected={startDate}
             onChange={(date) => setStartDate(date)}
           />
+          <Link to="/KonfirmasiRuang">
           <button type="submit" class="btn btn-primary ml-auto px-5">
             Cari
           </button>
+          </Link>
         </div>
       </form>
       <div></div>

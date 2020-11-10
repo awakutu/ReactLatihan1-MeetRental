@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function Pembayaran() {
   return (
     <>
@@ -33,7 +35,9 @@ export default function Pembayaran() {
         </div>
         <hr/>
         <div className="d-flex justify-content-end">
+        <Link to="/BuktiPembayaran">
         <button className="btn-primary">Bayar</button>
+        </Link>
         </div>
       </div>
     </>
