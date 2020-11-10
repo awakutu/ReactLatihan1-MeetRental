@@ -41,7 +41,7 @@ export default function login() {
                 
                 <div class="row mb-3 px-3">
                   {" "}
-                  <button type="submit" class="btn btn-blue text-center">
+                  <button type="submit" class="btn btn-primary text-center">
                     Login
                   </button>{" "}
                 </div>
