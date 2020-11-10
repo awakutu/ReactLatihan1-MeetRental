@@ -22,7 +22,6 @@ export default function KonfirmasiRuangMeeting() {
           <p className="text-center">Harga: RP.267.000,-</p>
           <button className="btn btn-primary">Konfirmasi</button>
           </div>
-          
         </div>
       </div>
     </>

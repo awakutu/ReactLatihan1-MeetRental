@@ -5,7 +5,7 @@ import Pembayaran from './pages/Pembayaran'
 
 export default function App() {
   return (
-  <Konfirmasi/>
+  <Pembayaran/>
   );
 }
 
