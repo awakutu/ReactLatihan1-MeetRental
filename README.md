@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosting: https://latihan-pwa-ac6c9.web.app/ 
+(If you can't acces the link, please message me.)
 
 ## Available Scripts
 
