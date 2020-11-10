@@ -6,7 +6,7 @@ import {default as Bukti} from './pages/BuktiPembayaran'
 
 export default function App() {
   return (
-  <Bukti/>
+  <Login/>
   );
 }
 
